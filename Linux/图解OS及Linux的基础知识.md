@@ -1,21 +1,16 @@
----
-title: 图解OS及Linux的基础知识
-tags:
-  - Linux
-  - OS
-  - 图解
-categories: Linux
-permalink: linux/chart-linux-os
+图解OS及Linux的基础知识 
 ---
 
+# 目录
 
->试着尽量用图示来表示个人对内容的理解，不足之处，还望不吝指教。
+- [CPU](#一.CPU)
+	- [cpu与指令集](#1.cpu与指令集)
+	- [人与机器](#2.人与机器)
+- [OS](二.OS)
 
+# 一.CPU
 
-
-> ### 一.CPU
-
-**1.cpu与指令集**
+## 1.cpu与指令集
 
 - **CPU**分为运算器和控制器
 - **CPU指令**
@@ -30,9 +25,7 @@ permalink: linux/chart-linux-os
 
 ![图片标题](https://leanote.com/api/file/getImage?fileId=57123c98ab644141d3000341)
 
-**2.人与机器**
-
->感觉没什么好解释的，一切尽在图中
+## 2.人与机器
 
 - **图示说明**
 
@@ -41,9 +34,9 @@ permalink: linux/chart-linux-os
 
 
 
-> ### 二.OS
+# 二.OS
 
-**1.OS的目的与功能**
+## 1.OS的目的与功能
 
 - **OS**：Operating System
 - **System Call**
@@ -54,7 +47,7 @@ permalink: linux/chart-linux-os
 ![图片标题](https://leanote.com/api/file/getImage?fileId=57123cb9ab644141d3000343)
 
 
-**2.编程的层次**
+## 2.编程的层次
 
 - **硬件规格**：hardware specifiacation
 	- 不同厂商的硬件规格千差万别，API也各不相同，写起来极为不便；
@@ -67,7 +60,7 @@ permalink: linux/chart-linux-os
 ![图片标题](https://leanote.com/api/file/getImage?fileId=57123cccab64414339000393)
 
 
-**3.指令环**
+## 3.指令环
 
 - 由内到外依次是**环0、环1、环2、环3**；
 - **环0**是特权指令，一般只有操作系统有权限运行；
@@ -80,7 +73,7 @@ permalink: linux/chart-linux-os
 
 ![图片标题](https://leanote.com/api/file/getImage?fileId=57123cdcab644141d3000344)
 
-**4.程序的运行模式**
+## 4.程序的运行模式
 
 - **用户空间**：user space（us）
 - **内核空间**：system space
@@ -92,7 +85,7 @@ permalink: linux/chart-linux-os
 
 
 
->### 三.UI：User Interface
+# 三.UI：User Interface
 
 `对OS来说：UI是用户接口、对用户来说UI是前端；`
 
@@ -106,7 +99,7 @@ permalink: linux/chart-linux-os
 
 
 
-> ### 四.ABI与API
+# 四.ABI与API
 
 - **ABI**：Application Binary Interface（应用程序二进制接口）
 	- 描述了应用程序（或者其他类型）和操作系统之间或其他应用程序的低级接口。
@@ -120,7 +113,7 @@ permalink: linux/chart-linux-os
 
 
 
-> ### 五.主流的CPU架构
+# 五.主流的CPU架构
 
 - **图示说明：**
 
