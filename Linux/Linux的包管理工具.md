@@ -1,13 +1,7 @@
+YUM:CentOS包管理工具
 ---
-  title: yum:CentOS包管理工具
-  tags:
-    - Linux
-    - yum
-    - CentOS
-  categories: 工具配置
-  permalink: tool-config/yum-centos-package-tool
----
-##Linux系统的包管理工具
+
+#Linux系统的包管理工具
 
 
 ## 优点
