@@ -1,10 +1,4 @@
----
-  title: 详解Linux用户和组的权限管理及相关命令
-  tags:
-    - Linux
-    - Linux基础
-  categories: Linux
-  permalink: linux/linux-user-groups
+详解Linux用户和组的权限管理及相关命令
 ---
 
 
