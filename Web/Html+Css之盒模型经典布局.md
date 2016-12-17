@@ -19,10 +19,10 @@ HTML+CSS之盒模型经典布局
 
 - ![](http://i.imgur.com/3t2TA1K.png)
 
-### 盒子模型经典案例1：
-- 实际效果：
-    - ![](http://i.imgur.com/SgBg1DB.png)
-- 代码：
+- 盒子模型经典案例1：
+    - 实际效果：
+        - ![](http://i.imgur.com/SgBg1DB.png)
+        - 代码：
 ```html
 <!DOCTYPE html>
 <html>
@@ -50,7 +50,7 @@ HTML+CSS之盒模型经典布局
 
 
 
-### 盒子模型的经典案例2：
+盒子模型的经典案例2：
 - 实际效果：
     - ![](http://i.imgur.com/FVzVBlc.png)
 
