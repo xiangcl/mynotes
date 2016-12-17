@@ -1,11 +1,7 @@
+Linux数据库备份
 ---
-title: Linux数据库备份
-tags:
-  - Linux
-  - 数据库备份
-categories: Linux
-permalink: linux/linux-database-backup
----
+
+[toc]
 
 ## 目标: 每隔1分钟,导出.sql,压缩,并按日期存储在/data 下,每分钟后删除.sql文件,每隔2分钟删除.tar.gz文件
 
