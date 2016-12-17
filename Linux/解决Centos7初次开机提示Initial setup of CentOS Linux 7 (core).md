@@ -1,10 +1,4 @@
----
-title: 解决Centos7初次开机提示Initial setup of CentOS Linux 7 (core)
-tags:
-  - Linux
-  - Linux问题集
-categories: Linux问题宝典
-permalink: linux-collection/linux-answer-three
+解决Centos7初次开机提示Initial setup of CentOS Linux 7 (core)
 ---
 
 ## 安装完成centos7后出现如下提示：
