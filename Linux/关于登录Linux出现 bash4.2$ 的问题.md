@@ -1,10 +1,4 @@
----
-title: 关于登录Linux出现 bash4.2$ 的问题
-tags:
-  - Linux
-  - Linux问题集
-categories: Linux问题宝典
-permalink: linux-collection/linux-answer-two
+关于登录Linux出现 bash4.2$ 的问题
 ---
 
 ## 问题
