@@ -1,10 +1,4 @@
----
-  title: Linux文件与目录管理2
-  tags:
-    - Linux
-    - Linux基础
-  categories: Linux
-  permalink: Linux/linux-file-dir-man-two
+Linux文件与目录管理2
 ---
 
 ## 文件和目录的默认权限与隐藏权限
