@@ -1,10 +1,4 @@
----
-title: 解决：sudo useradd xxx`时，出现`xxx is not in the sudoers file. This incident will be reported.
-tags:
-  - Linux
-  - Linux问题集
-categories: Linux问题宝典
-permalink: linux-collection/linux-answer-one
+解决：sudo useradd xxx`时，出现`xxx is not in the sudoers file. This incident will be reported.
 ---
 
 ## 问题描述
