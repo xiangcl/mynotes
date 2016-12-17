@@ -1,10 +1,4 @@
----
-  title: 解决linux：vim的退格删除键不能用
-  tags:
-    - Linux
-    - Linux问题集
-  categories: Linux问题宝典
-  permalink: linux/vim-problem-one
+解决linux：vim的退格删除键不能用
 ---
 
 ## 问题：linux下vim的退格删除键不能使用
