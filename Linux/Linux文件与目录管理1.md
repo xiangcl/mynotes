@@ -1,10 +1,4 @@
----
-  title: Linux文件与目录管理1
-  tags:
-    - Linux
-    - Linux基础
-  categories: Linux
-  permalink: Linux/linux-file-dir-man-one
+Linux文件与目录管理1
 ---
 
 ## 一、目录与路径
